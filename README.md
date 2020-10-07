@@ -1,5 +1,11 @@
 # ATT 8130 "Computer" phone control software
 
+I used one of these as my desk phone in the 1990s.
+There was Windows support, but I used some *nix at the time,
+so I decided to write my own integration. This code
+has not been touched since 1996 and was never meant
+for anyone else to see.
+
 ## The protocol
 
 The serial port uses an "AT" style protocol.
